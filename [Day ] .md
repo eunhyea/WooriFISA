@@ -6,14 +6,14 @@
         aeae
         cece
 
-    <details>
-        <summary>코드</summary>
+<details>
+    <summary>코드</summary>
         
         ---
         print('hello')
         ---
 
-    </details> 
+</details> 
 
     * bb
         bebe
