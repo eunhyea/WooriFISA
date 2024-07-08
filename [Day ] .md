@@ -5,15 +5,22 @@
     * aa
         aeae
         cece
-    
+    <details>
+        <summary>코드</summary>
+        
+        ---
+        print('hello')
+        ---
+
+    </details> 
+
     * bb
         bebe
 </details> 
 
 
-2. 알게된 점
-    ㄱㄱ
+1. 알게된 점
 
-3. 어려운 점
+2. 어려운 점
 
-4. 나만의 활용법 고민
+3. 질문 및 응용
