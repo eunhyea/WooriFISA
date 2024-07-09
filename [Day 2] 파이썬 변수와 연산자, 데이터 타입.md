@@ -1,18 +1,15 @@
-#ㄱㄱㄴㄹ
+#
 <details>
     <summary></summary>
     
     * aa
         aeae
         cece
+</details>
 
 <details>
     <summary>코드</summary>
-        
-        ---
-        print('hello')
-        ---
-
+     
 </details> 
 
     * bb
