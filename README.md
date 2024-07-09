@@ -1,1 +1,1 @@
-# Woori FISA 수강 일지
+# Woori FISA
